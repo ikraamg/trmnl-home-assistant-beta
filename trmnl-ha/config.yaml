@@ -1,6 +1,6 @@
 name: "TRMNL HA Beta"
 description: "Send dashboard screens to your TRMNL"
-version: "0.6.11"
+version: "0.6.12"
 slug: "trmnl-ha-beta"
 url: "https://github.com/usetrmnl/trmnl-home-assistant"
 image: ghcr.io/ikraamg/trmnl-ha-{arch}
