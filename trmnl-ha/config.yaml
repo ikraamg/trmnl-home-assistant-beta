@@ -1,9 +1,9 @@
-name: "TRMNL HA"
+name: "TRMNL HA Beta"
 description: "Send dashboard screens to your TRMNL"
 version: "0.6.9"
-slug: "trmnl-ha"
+slug: "trmnl-ha-beta"
 url: "https://github.com/usetrmnl/trmnl-home-assistant"
-image: ghcr.io/usetrmnl/trmnl-ha-{arch}
+image: ghcr.io/ikraamg/trmnl-ha-{arch}
 # NOTE: Uncomment after setting up Codenotary signing in CI
 # codenotary: dev@usetrmnl.com
 homeassistant_api: true

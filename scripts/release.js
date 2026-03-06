@@ -13,7 +13,7 @@ import { dirname, join } from 'path'
 const __filename = fileURLToPath(import.meta.url)
 const __dirname = dirname(__filename)
 const ROOT_DIR = join(__dirname, '..')
-const GITHUB_REPO = 'usetrmnl/trmnl-home-assistant'
+const GITHUB_REPO = 'ikraamg/trmnl-home-assistant-beta'
 
 // File paths
 const PATHS = {
