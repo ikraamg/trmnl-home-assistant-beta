@@ -5,6 +5,19 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [0.6.10] - 2026-03-06
+
+### Added
+
+- Add emoji font
+
+### Changed
+
+- Update release for this fork
+- Updated dashboard dropdown to use HA panels API
+- Added schedule import and export
+- Fixed standalone Docker data persistence
+- Fixed flaky CI tests caused by mock.module pollution
 ## [0.6.9] - 2026-02-12
 
 ### Changed
@@ -235,4 +248,5 @@ Based on the [puppet](https://github.com/balloob/home-assistant-addons/tree/main
 [0.6.7]: https://github.com/usetrmnl/trmnl-home-assistant/compare/v0.6.6...v0.6.7
 [0.6.8]: https://github.com/usetrmnl/trmnl-home-assistant/compare/v0.6.7...v0.6.8
 [0.6.9]: https://github.com/usetrmnl/trmnl-home-assistant/compare/v0.6.8...v0.6.9
+[0.6.10]: https://github.com/ikraamg/trmnl-home-assistant-beta/compare/v0.6.9...v0.6.10
 [0.2.0]: https://github.com/usetrmnl/trmnl-home-assistant/compare/v0.1.0...v0.2.0
